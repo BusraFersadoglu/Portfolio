@@ -7,7 +7,6 @@ import p5 from "../public/image/p5.png";
 import p6 from "../public/image/p6.png";
 
 export default function Project() {
-  console.log(p1.src, "p1");
   return (
     <div id="project">
       <h1 className="h1-title">Projects</h1>
