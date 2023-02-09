@@ -38,7 +38,7 @@ export default function Project() {
         </div>
         <div className="project">
           <h1>JS30 Challange</h1>
-          <img src={p5.src} />
+          <img src={p6.src} />
           <div className="repo">
             <a
               href="https://github.com/BusraFersadoglu/JS30-Series"
