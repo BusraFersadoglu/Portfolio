@@ -41,18 +41,6 @@ export default function Technologies() {
           <SiNextdotjs fontSize={75} className="icon" />
           <h3 className="a-award-desc">NextJS</h3>
         </div>
-        <div className="logo">
-          <SiVuedotjs fontSize={75} className="icon" />
-          <h3 className="a-award-desc">VueJS</h3>
-        </div>
-        <div className="logo">
-          <SiNodedotjs fontSize={75} className="icon" />
-          <h3 className="a-award-desc">NodeJS</h3>
-        </div>
-        <div className="logo">
-          <SiMongodb fontSize={75} className="icon" />
-          <h3 className="a-award-desc">MongoDB</h3>
-        </div>
       </div>
     </div>
   );
